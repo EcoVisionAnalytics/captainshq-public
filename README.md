@@ -29,14 +29,6 @@ This repository presents the product, architecture, and workflow design behind C
 | --- |
 | ![Pricing and packaging](assets/screenshots/pricing-page.png) |
 
-## What This Repo Should Communicate
-
-- Full-stack SaaS architecture.
-- Django REST API and Next.js PWA patterns.
-- Booking, customer, calendar, and payment workflows.
-- Small-business operational software design.
-- Mobile-first UX and installable app behavior.
-
 ## Architecture Summary
 
 ```mermaid
