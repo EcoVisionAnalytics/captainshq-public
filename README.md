@@ -1,4 +1,4 @@
-# CaptainsHQ SaaS Case Study
+# CaptainsHQ SaaS 
 
 ![CaptainsHQ logo](assets/logo/captainshq-logo.png)
 
